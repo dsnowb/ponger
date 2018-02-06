@@ -1,0 +1,23 @@
+{
+  "name": "ponger-client",
+  "version": "0.1.0",
+  "description": "Front-end for Ponger - a ping-pong ranker and match-maker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsnowb/ponger-client.git"
+  },
+  "author": "David Snowberger",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dsnowb/ponger-client/issues"
+  },
+  "homepage": "https://github.com/dsnowb/ponger-client#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
